@@ -1,0 +1,14 @@
+li {
+    padding: 10px 0;
+    text-indent: -10px;
+}
+
+.year {
+    font-weight: 700;
+    padding: 10px;
+
+}
+
+.quotes {
+    font-style: italic;
+}
